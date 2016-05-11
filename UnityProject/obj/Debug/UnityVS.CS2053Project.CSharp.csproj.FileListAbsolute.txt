@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\obj\Debug\UnityVS.CS2053Project.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Documents\UnityProjects\CS2053Project\obj\Debug\Assembly-CSharp.pdb
